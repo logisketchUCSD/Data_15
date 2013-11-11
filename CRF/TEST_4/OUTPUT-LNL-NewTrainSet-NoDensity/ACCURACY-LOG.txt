@@ -1,0 +1,160 @@
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0128_1.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0128_1.6.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  100.000%
+Percentage of correctly labeled Nonlabels:  100.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0128_1.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0128_1.7.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  .000%
+Percentage of correctly labeled Nonlabels:  80.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0128_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0128_3.5.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  50.000%
+Percentage of correctly labeled Nonlabels:  80.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0128_3.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0128_3.6.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  72.727%
+Percentage of correctly labeled Nonlabels:  91.892%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0128_6.1.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0128_6.1.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  83.871%
+Percentage of correctly labeled Nonlabels:  72.727%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_1.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_1.7.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  60.000%
+Percentage of correctly labeled Nonlabels:  80.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_1.8.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_1.8.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  100.000%
+Percentage of correctly labeled Nonlabels:  71.429%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_2.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_2.6.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  50.000%
+Percentage of correctly labeled Nonlabels:  61.538%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_3.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_3.3.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  100.000%
+Percentage of correctly labeled Nonlabels:  76.190%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_3.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_3.4.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  54.545%
+Percentage of correctly labeled Nonlabels:  81.579%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_3.5.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  66.667%
+Percentage of correctly labeled Nonlabels:  100.000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_3.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_3.7.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  52.273%
+Percentage of correctly labeled Nonlabels:  68.421%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0268_4.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0268_4.3.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  77.778%
+Percentage of correctly labeled Nonlabels:  88.235%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0502_3.10.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0502_3.10.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  81.818%
+Percentage of correctly labeled Nonlabels:  82.609%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0502_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0502_3.5.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  27.027%
+Percentage of correctly labeled Nonlabels:  58.333%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\0502_3.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\0502_3.6.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  64.286%
+Percentage of correctly labeled Nonlabels:  81.481%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1106_2.1.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1106_2.1.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  68.750%
+Percentage of correctly labeled Nonlabels:  55.556%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1106_2.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1106_2.2.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  71.429%
+Percentage of correctly labeled Nonlabels:  53.571%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1106_2.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1106_2.3.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  10.000%
+Percentage of correctly labeled Nonlabels:  82.857%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1106_2.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1106_2.4.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  70.000%
+Percentage of correctly labeled Nonlabels:  95.652%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1234_3.1.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1234_3.1.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  25.000%
+Percentage of correctly labeled Nonlabels:  89.286%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1234_3.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1234_3.4.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  94.118%
+Percentage of correctly labeled Nonlabels:  57.500%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1234_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1234_3.5.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  94.118%
+Percentage of correctly labeled Nonlabels:  57.500%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1357_3.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1357_3.7.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  78.571%
+Percentage of correctly labeled Nonlabels:  65.385%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1500_3.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1500_3.4.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  100.000%
+Percentage of correctly labeled Nonlabels:  80.435%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1585_2.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1585_2.2.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  48.485%
+Percentage of correctly labeled Nonlabels:  80.519%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1585_2.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1585_2.5.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  45.455%
+Percentage of correctly labeled Nonlabels:  73.810%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1585_2.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1585_2.6.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  73.333%
+Percentage of correctly labeled Nonlabels:  76.056%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1585_2.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1585_2.7.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  50.000%
+Percentage of correctly labeled Nonlabels:  68.571%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\1878_2.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\1878_2.2.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  48.571%
+Percentage of correctly labeled Nonlabels:  67.347%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\2468_3.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\2468_3.3.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  100.000%
+Percentage of correctly labeled Nonlabels:  46.875%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\3141_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\3141_3.5.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  82.353%
+Percentage of correctly labeled Nonlabels:  7.692%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\3274_2.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\3274_2.7.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  51.515%
+Percentage of correctly labeled Nonlabels:  79.808%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\3274_3.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\3274_3.2.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  62.500%
+Percentage of correctly labeled Nonlabels:  97.222%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\4242_1.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\4242_1.2.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  77.778%
+Percentage of correctly labeled Nonlabels:  91.429%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\4242_1.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\4242_1.3.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  63.636%
+Percentage of correctly labeled Nonlabels:  90.323%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\4242_2.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\4242_2.7.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  80.000%
+Percentage of correctly labeled Nonlabels:  93.548%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\9171_3.2.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\9171_3.2.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  75.000%
+Percentage of correctly labeled Nonlabels:  78.125%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\OUTPUT-LNL-NewTrainSet-NoDensity\9171_3.8.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-LABNONLABCORRECT\9171_3.8.1.labeled.wire-gate-label.wire-gate-label.xml.
+Percentage of correctly labeled Labels:  83.333%
+Percentage of correctly labeled Nonlabels:  78.125%
+
+Results based on whole set of data:
+Percentage of correctly labeled Labels: 65.879%
+Percentage of correctly labeled Nonlabels: 76.351%
